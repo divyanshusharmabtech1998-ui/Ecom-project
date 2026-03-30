@@ -1,1 +1,1 @@
-#Developed an end-to-end automation framework using Playwright for UI testing and Postman for API testing. Integrated the framework with Jenkins CI/CD pipeline and Docker containers for automated test execution. Managed source code using Git and GitHub.
+**Developed an end-to-end automation framework using Playwright for UI testing and Postman for API testing. Integrated the framework with Jenkins CI/CD pipeline and Docker containers for automated test execution. Managed source code using Git and GitHub.**
